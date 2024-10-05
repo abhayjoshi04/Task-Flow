@@ -1,8 +1,25 @@
-# React + Vite
+# TaskFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+**TaskFlow** is a user-friendly Todo application built with React, Redux Toolkit and localStorage that helps users manage their daily tasks efficiently. The application features a simple interface for adding, editing, and deleting tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add new tasks easily
+- Edit existing tasks
+- Delete tasks
+- Persistent storage using Local Storage
+- Responsive design for various screen sizes
+
+## Technologies Used
+
+- **Frontend:**
+  - React
+  - Redux Toolkit
+  - Tailwind CSS
+  - Local Storage for persistent data management
+
+- **Development Tools:**
+  - Vite
+  - Git & GitHub
